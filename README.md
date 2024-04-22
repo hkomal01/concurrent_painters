@@ -13,10 +13,10 @@ python3 procerual_artist.py -M x -S y
 ```
 There are two required flags:
 1. -M
-  - Determines the number of thread that will paint on the image at once
-  - This is the number of different splotches in the image
+    - Determines the number of thread that will paint on the image at once
+    - This is the number of different splotches in the image
 3. -S
-  - The number of steps to paints
-  - In each step, every painter will attempt to paint a single pixel
+    - The number of steps to paints
+    - In each step, every painter will attempt to paint a single pixel
 
 
